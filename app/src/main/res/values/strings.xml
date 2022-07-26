@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Poke-A-Dex</string>
+    <string name="button_retry">Retry</string>
+    <string name="no_internet_connection">Failed to connect</string>
+</resources>
